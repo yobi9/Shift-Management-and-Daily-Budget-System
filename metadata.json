@@ -1,0 +1,8 @@
+{
+  "name": "Remix نظام إدارة الورديات والميزانية اليومية",
+  "description": "نظام موحد لإدارة الشفتات المشتركة، تسجيل دخل اليوم والمعاملات، وتسليم الوردية التاريخي مع تأكيد الموظف التالي وأرشفة غير قابلة للتعديل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
